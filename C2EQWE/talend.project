@@ -82,6 +82,7 @@
         <elementParameter xmi:id="_ewKu7CGBEeaUOur3YfyBEQ" field="TECHNICAL" name="PROPERTY_TYPE_IMPLICIT_CONTEXT:REPOSITORY_PROPERTY_TYPE" value="" contextMode="false"/>
       </parameters>
     </implicitContextSettings>
+    <deletedFolders>MDM/datacontainer/test11</deletedFolders>
     <migrationTask xmi:id="_aKN3YCGBEeaUOur3YfyBEQ" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_aKN3YSGBEeaUOur3YfyBEQ" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_aKN3YiGBEeaUOur3YfyBEQ" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="ok"/>
