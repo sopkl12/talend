@@ -1,4 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdmserverobject:WSViewE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_QAqNUCMJEeaSD9N7TBfeJg" name="Browse_items_Movie" description="">
-  <isTransformerActive xmi:id="_QAqNUSMJEeaSD9N7TBfeJg"/>
+<mdmserverobject:WSViewE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_QAqNUCMJEeaSD9N7TBfeJg" name="Browse_items_Movie" description="[EN:Movie]" transformerPK="">
+  <searchableBusinessElements>Movie/id</searchableBusinessElements>
+  <searchableBusinessElements>Movie/name</searchableBusinessElements>
+  <searchableBusinessElements>Movie/price</searchableBusinessElements>
+  <viewableBusinessElements>Movie/id</viewableBusinessElements>
+  <viewableBusinessElements>Movie/name</viewableBusinessElements>
+  <viewableBusinessElements>Movie/price</viewableBusinessElements>
+  <isTransformerActive xmi:id="_X-TZUCMJEeaSD9N7TBfeJg"/>
 </mdmserverobject:WSViewE>
