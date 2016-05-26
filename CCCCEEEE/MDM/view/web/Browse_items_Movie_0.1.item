@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mdmserverobject:WSViewE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_QAqNUCMJEeaSD9N7TBfeJg" name="Browse_items_Movie" description="[EN:Movie]" transformerPK="">
+<mdmserverobject:WSViewE xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:mdmserverobject="http://www.talend.org/mdmserverobject" xmi:id="_QAqNUCMJEeaSD9N7TBfeJg" name="Browse_items_Movie" description="[EN:Movie]" timestamp="1464245221932" digestValue="5523f575f88e636e7a9a2825bab8cffb" lastServerName="My Server" transformerPK="">
   <searchableBusinessElements>Movie/id</searchableBusinessElements>
   <searchableBusinessElements>Movie/name</searchableBusinessElements>
   <searchableBusinessElements>Movie/price</searchableBusinessElements>
