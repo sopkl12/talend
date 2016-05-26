@@ -5,6 +5,20 @@
     <typeContainer xmi:type="ermodel:TypeContainer" xmi:id="_lsT24SMIEeaSD9N7TBfeJg"/>
   </ermodel:ModelContainer>
   <notation:Diagram xmi:id="_ltKLcCMIEeaSD9N7TBfeJg" type="ERmodel" element="_lsTP0CMIEeaSD9N7TBfeJg" name="Movie_0.1.er" measurementUnit="Pixel">
+    <children xmi:type="notation:Node" xmi:id="_nk5wMCMIEeaSD9N7TBfeJg" type="2002" element="_lsT24SMIEeaSD9N7TBfeJg">
+      <children xmi:type="notation:BasicCompartment" xmi:id="_nk_20CMIEeaSD9N7TBfeJg" type="7002"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_nk6XQCMIEeaSD9N7TBfeJg"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_nk6XQSMIEeaSD9N7TBfeJg" fontName=".Helvetica Neue DeskInterface"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_nk6XQiMIEeaSD9N7TBfeJg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nk6XQyMIEeaSD9N7TBfeJg"/>
+    </children>
+    <children xmi:type="notation:Node" xmi:id="_nlAd4CMIEeaSD9N7TBfeJg" type="2006" element="_lsT24CMIEeaSD9N7TBfeJg">
+      <children xmi:type="notation:DecorationNode" xmi:id="_nlAd5SMIEeaSD9N7TBfeJg" type="7003"/>
+      <styles xmi:type="notation:DescriptionStyle" xmi:id="_nlAd4SMIEeaSD9N7TBfeJg"/>
+      <styles xmi:type="notation:FontStyle" xmi:id="_nlAd4iMIEeaSD9N7TBfeJg" fontName=".Helvetica Neue DeskInterface"/>
+      <styles xmi:type="notation:FillStyle" xmi:id="_nlAd4yMIEeaSD9N7TBfeJg"/>
+      <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nlAd5CMIEeaSD9N7TBfeJg"/>
+    </children>
     <styles xmi:type="notation:DiagramStyle" xmi:id="_ltKLcSMIEeaSD9N7TBfeJg"/>
   </notation:Diagram>
 </xmi:XMI>
